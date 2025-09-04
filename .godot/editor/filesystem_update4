@@ -1,0 +1,7 @@
+res://scenes/Game.tscn
+res://scenes/player.tscn
+res://scenes/components/gravity_component.tscn
+res://scenes/components/input_components.tscn
+res://scenes/components/movement_components.tscn
+res://scenes/components/animation_component.tscn
+res://scenes/components/jump_component.tscn

@@ -1,0 +1,7 @@
+res://scenes/components/animation_component.tscn::403bbb01141e14efa0b8cec0d76c53ab::1757011944::res://.godot/exported/133200997/export-fc774c1f134bb955a6d38320064dab07-animation_component.scn
+res://scenes/components/gravity_component.tscn::8fe568faddba83f0da1cf66fd346cf83::1757011944::res://.godot/exported/133200997/export-a45b315375366f77774b0618ee83eafc-gravity_component.scn
+res://scenes/components/input_components.tscn::339cf24253ab6ed6fb6ddca0c0bc1ced::1757011944::res://.godot/exported/133200997/export-be95b987800f39acdc11689f1ed93ea7-input_components.scn
+res://scenes/components/jump_component.tscn::6da38be80561065215f6254146ff1cae::1757011944::res://.godot/exported/133200997/export-6855b59c7358812f63adfe01882767d3-jump_component.scn
+res://scenes/components/movement_components.tscn::251bde1f61d989cd1f807148fd694574::1757011944::res://.godot/exported/133200997/export-ce993abd96012e2dccc0530881cdc01d-movement_components.scn
+res://scenes/Game.tscn::c549d39892bf23bc702125df9726c93d::1757011944::res://.godot/exported/133200997/export-ff8ceb9b2bd5b48777d3d52e811276ab-Game.scn
+res://scenes/player.tscn::79e1b98e40d1b50c2b40e57c673ed8f9::1757011944::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
